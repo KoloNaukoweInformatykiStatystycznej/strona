@@ -1,0 +1,2 @@
+# strona
+strona internetowa koła
